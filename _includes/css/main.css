@@ -471,3 +471,13 @@ header img.profile-img {
 header .intro-text .name {
     font-size: 2.25em;
 }
+
+iframe {
+    float: left;
+    margin: 15px 20px 0px 0px;
+}
+
+.project-image {
+    float: left;
+    margin: 15px 20px 0px 0px;
+}
